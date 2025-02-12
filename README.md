@@ -17,3 +17,14 @@ All notes are written in **Korean**, and I hope they can be helpful to students 
 | Databases            | Professor Misuk Kim, Ph.D.        | Spring 2022   | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/DB_NoteTaking) |
 
 Feel free to explore the notes, and I hope they are useful for your studies!
+
+## 🔍 How to Use
+1. Find the course you need from the **Course List** below.
+2. Click the **Download** link in the "Release Link" column.
+3. Download the lecture notes as a ZIP file.
+4. Extract the ZIP file and study the notes!
+
+## ⚠️ License & Usage Policy
+- These notes were personally written for self-study purposes.
+- Redistribution for **commercial purposes** is not allowed.
+- Feel free to use these notes for **personal learning** or **academic reference**.
