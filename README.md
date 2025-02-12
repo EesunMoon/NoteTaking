@@ -8,7 +8,7 @@ All notes are written in **Korean**, and I hope they can be helpful to students 
 
 ### 📖 Course List
 
-| Course Name           | Professor                | Semester       | Release Link |
+| Course Name           | Instructor                | Semester       | Release Link |
 |-----------------------|-------------------------|---------------|--------------|
 | Signal and System    | Professor Hyun-Suk Lee     | Fall 2020     | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/SS_NoteTaking) |
 | Computer Network     | Professor Hyun-Suk Lee     | Spring 2021   | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/CN_NoteTaking) |
