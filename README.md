@@ -1,7 +1,7 @@
 ## 📚 Sejong University - Note Taking Repository
 
-This repository contains notes from courses taken at Sejong University by **Eesun Moon** during undergraduate studies. <br>
-All content in this repository was personally written by Eesun Moon (Me 😁) and is intended to facilitate personal study. <br>
+This repository contains notes from courses taken at Sejong University by **Eesun Moon** during undergraduate studies.
+All content in this repository was personally written by Eesun Moon (Me 😁) and is intended to facilitate personal study.
 Therefore, there may be errors or redundant information. Please note that I do not take responsibility for any inaccuracies.
 
 All notes are written in **Korean**, and I hope they can be helpful to students studying at Sejong University.
