@@ -10,11 +10,11 @@ All notes are written in **Korean**, and I hope they can be helpful to students 
 
 | Course Name           | Professor                | Semester       | Release Link |
 |-----------------------|-------------------------|---------------|--------------|
-| Signal and System    | Professor Hyun-Suk Lee, Ph.D.     | Fall 2020     | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/SS_NoteTaking) |
-| Computer Network     | Professor Hyun-Suk Lee, Ph.D.     | Spring 2021   | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/CN_NoteTaking) |
-| Image Processing     | Professor Joo-Hee Moon, Ph.D.     | Fall 2021     | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/IP_NoteTaking) |
-| Artificial Intelligence | Professor Hyun-Suk Lee, Ph.D.  | Fall 2021     | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/AI_NoteTaking) |
-| Databases            | Professor Misuk Kim, Ph.D.        | Spring 2022   | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/DB_NoteTaking) |
+| Signal and System    | Professor Hyun-Suk Lee     | Fall 2020     | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/SS_NoteTaking) |
+| Computer Network     | Professor Hyun-Suk Lee     | Spring 2021   | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/CN_NoteTaking) |
+| Image Processing     | Professor Joo-Hee Moon     | Fall 2021     | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/IP_NoteTaking) |
+| Artificial Intelligence | Professor Hyun-Suk Lee  | Fall 2021     | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/AI_NoteTaking) |
+| Databases            | Professor Misuk Kim        | Spring 2022   | [📎 Download](https://github.com/EesunMoon/NoteTaking/releases/tag/DB_NoteTaking) |
 
 Feel free to explore the notes, and I hope they are useful for your studies!
 
